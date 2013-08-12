@@ -16,9 +16,9 @@
   },
   "bundleDependencies":["webinos-api-test"],
   "dependencies":{
-    "webinos-certificateHandler": "git://github.com/webinos/webinos-certificateHandler.git",
-    "webinos-utilities"         : "git://github.com/webinos/webinos-utilities.git",
-    "webinos-policy"            : "git://github.com/webinos/webinos-policy.git",
+    "webinos-certificateHandler": "https://github.com/gguowei/webinos-certificateHandler/tarball/stable",
+    "webinos-utilities": "https://github.com/gguowei/webinos-utilities/tarball/stable",
+    "webinos-policy": "https://github.com/gguowei/webinos-policy/tarball/stable",
     "webinos-dashboard"         : "git://github.com/webinos/webinos-dashboard.git",
     "webinos-api-applauncher"   : "git://github.com/webinos/webinos-api-applauncher.git",
     "webinos-jsonrpc2"          : "*",
@@ -40,3 +40,4 @@
     "travis-test": "./test/travis-test.sh"
   }
 }
+
