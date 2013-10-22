@@ -17,7 +17,7 @@
   "bundleDependencies":["webinos-api-test"],
   "dependencies":{
     "webinos-certificateHandler": "https://github.com/gguowei/webinos-certificateHandler/tarball/stable",
-    "webinos-utilities": "https://github.com/gguowei/webinos-utilities/tarball/stable",
+    "webinos-utilities": "https://github.com/gguowei/webinos-utilities/tarball/lkgr",
     "webinos-policy": "https://github.com/gguowei/webinos-policy/tarball/stable",
     "webinos-dashboard"         : "git://github.com/webinos/webinos-dashboard.git",
     "webinos-api-applauncher"   : "git://github.com/webinos/webinos-api-applauncher.git",
